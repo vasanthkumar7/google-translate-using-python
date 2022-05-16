@@ -32,7 +32,7 @@ tk = Tk()
 tk.title('Google translate')
 tk.config(bg=glb_color)
 ``` 
-![sc23.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652711790579/qOUN3NN3U.png align="left")
+![sc23.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652711790579/qOUN3NN3U.png )
 tk is the main window of the application
 
 ## Getting input from the user
@@ -50,7 +50,7 @@ source.grid(row=0,column=0,padx=10,pady=40)
 
 ``` 
 
-![sc24.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652711975139/ZYmVTiTuV.png align="left")
+![sc24.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652711975139/ZYmVTiTuV.png )
 source(Frame):- It is the left part of the application.
 source_msg(Label):- It is used to display the input language
 text_box(Text):- It is used to get the Input language
@@ -106,7 +106,7 @@ text_box1.grid(row=1,column=0,padx=20,pady=20)
 dest.grid(row=0,column=2,padx=10,pady=40)
 ``` 
 
-![sc26.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652712407388/mCjkz58Jl.png align="left")
+![sc26.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652712407388/mCjkz58Jl.png )
 
 source(Frame):- It is the right part of the application.
 source_msg(Label):- It is used to display the output language
@@ -277,6 +277,6 @@ tk.mainloop()
 ``` 
 
 
-![sc22.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652712951521/pOlfy9d1f.png align="left")
+![sc22.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652712951521/pOlfy9d1f.png )
 
 
