@@ -155,7 +155,7 @@ def trans_pronountiation():
 ``` 
 In this function, it will tell the user what's the pronunciation of the translated language
 
-## Final code
+# Final code
 
 ```
 #pip install googletrans==3.1.0a0
