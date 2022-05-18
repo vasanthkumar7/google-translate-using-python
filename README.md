@@ -94,7 +94,7 @@ drop(OptionMenu):- It is used for dropdown menu
 trans(Button):- It will invoke the google_trans_fun() function
 pronunciation(Button):- It will invoke the trans_pronountiation() function
 
-# Showing the output
+## Showing the output
 
 ```
 dest=Frame(tk,bg=glb_color)
